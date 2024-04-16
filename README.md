@@ -28,7 +28,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Brian-Magomere-Igadwa&theme=tokyonight" width="48%" />
 </div>
 
-![Banner](https://raw.githubusercontent.com/Brian-Magomere-Igadwa/Brian-Magomere-Igadwa/main/pngwing.com.png)
+![Banner](https://raw.githubusercontent.com/Brian-Magomere-Igadwa/Brian-Magomere-Igadwa/main/fix.png)
 
 
 <!--
