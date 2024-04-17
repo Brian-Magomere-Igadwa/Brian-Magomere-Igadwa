@@ -16,6 +16,9 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Magomere-Igadwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ### Contact me
 [![Reddit](https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igadwabrian)
 [![Reddit](https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/m_igadwa)
