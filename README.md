@@ -27,8 +27,8 @@
 
 ### Stats
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbuthimungai&show_icons=true&include_all_commits=true&theme=tokyonight" width="48%" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mbuthimungai&theme=tokyonight" width="48%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-waiguru&show_icons=true&include_all_commits=true&theme=tokyonight" width="48%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=daniel-waiguru&theme=tokyonight" width="48%" />
 </div>
 
 ![Banner](https://raw.githubusercontent.com/Brian-Magomere-Igadwa/Brian-Magomere-Igadwa/main/fix.png)
