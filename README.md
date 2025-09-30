@@ -22,6 +22,7 @@
 ### Contact me
 [![Reddit](https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igadwabrian)
 [![Reddit](https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/m_igadwa)
+[![Reddit](https://img.shields.io/badge/Portfolio-7289DA?style=for-the-badge&logo=porfolio&logoColor=white)](https://brianigadwa.vercel.app)
 
 
 
