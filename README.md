@@ -1,6 +1,6 @@
 
 ### Hi, I am Igadwa 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=I+am+a+software+engineer.;I+fix+bugs+for+a+living.;...+and+print+logs;...from+time+to+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=I+am+a+software+engineer.;I+solve+problems.;...and+print+logs;...from+time+to+time)](https://git.io/typing-svg)
 
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=Brian-Magomere-Igadwa&label=Profile%20views&color=0e75b6&style=flat"
@@ -26,11 +26,11 @@
 
 
 
-### Stats
-<div>
+<!--### Stats -->
+<!-- <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brian-Magomere-Igadwa&show_icons=true&include_all_commits=true&theme=tokyonight" width="48%" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Brian-Magomere-Igadwa&theme=tokyonight" width="48%" />
-</div>
+</div> -->
 
 
 
