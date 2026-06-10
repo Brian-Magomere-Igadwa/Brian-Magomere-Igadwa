@@ -2,7 +2,7 @@
 
 ### Hi, I am Igadwa 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=400&color=FFFFFF&random=false&width=435&lines=I+am+a+software+engineer.;I+solve+problems.;Yup!+That's+it.;Okay,+am+done+typing+now!;...while+I+have+your+attention.;Might+as+well+contact+me+😏...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=200&color=FFFFFF&random=false&width=435&lines=I+am+a+software+engineer.;I+solve+problems.;Yup!+That's+it.;Okay,+am+done+typing+now!;...while+I+have+your+attention.;Might+as+well+contact+me+😏...;)](https://git.io/typing-svg)
 
 ---
 
