@@ -18,7 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%234ea94b.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Magomere-Igadwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Magomere-Igadwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
 ### Contact me
